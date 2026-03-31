@@ -8,9 +8,9 @@ This is a pure Delphi 12 implementation of a fully-featured PE parser and memory
 
 ---
 
-![](/tcpdemo.png)
-![](/httpdemo.png)
-![](/diskdemo.png)
+![](/images/tcpdemo.png)
+![](/images/httpdemo.png)
+![](/images/diskdemo.png)
 
 ## Overview
 
